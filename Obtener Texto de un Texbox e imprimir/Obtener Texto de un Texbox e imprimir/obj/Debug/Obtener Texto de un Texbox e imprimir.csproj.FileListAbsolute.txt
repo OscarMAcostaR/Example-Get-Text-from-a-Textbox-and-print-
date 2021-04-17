@@ -1,0 +1,9 @@
+c:\users\alllstar cronos\documents\visual studio 2015\Projects\Obtener Texto de un Texbox e imprimir\Obtener Texto de un Texbox e imprimir\bin\Debug\Obtener Texto de un Texbox e imprimir.exe.config
+c:\users\alllstar cronos\documents\visual studio 2015\Projects\Obtener Texto de un Texbox e imprimir\Obtener Texto de un Texbox e imprimir\bin\Debug\Obtener Texto de un Texbox e imprimir.exe
+c:\users\alllstar cronos\documents\visual studio 2015\Projects\Obtener Texto de un Texbox e imprimir\Obtener Texto de un Texbox e imprimir\bin\Debug\Obtener Texto de un Texbox e imprimir.pdb
+c:\users\alllstar cronos\documents\visual studio 2015\Projects\Obtener Texto de un Texbox e imprimir\Obtener Texto de un Texbox e imprimir\obj\Debug\Obtener Texto de un Texbox e imprimir.csprojResolveAssemblyReference.cache
+c:\users\alllstar cronos\documents\visual studio 2015\Projects\Obtener Texto de un Texbox e imprimir\Obtener Texto de un Texbox e imprimir\obj\Debug\Obtener_Texto_de_un_Texbox_e_imprimir.Form1.resources
+c:\users\alllstar cronos\documents\visual studio 2015\Projects\Obtener Texto de un Texbox e imprimir\Obtener Texto de un Texbox e imprimir\obj\Debug\Obtener_Texto_de_un_Texbox_e_imprimir.Properties.Resources.resources
+c:\users\alllstar cronos\documents\visual studio 2015\Projects\Obtener Texto de un Texbox e imprimir\Obtener Texto de un Texbox e imprimir\obj\Debug\Obtener Texto de un Texbox e imprimir.csproj.GenerateResource.Cache
+c:\users\alllstar cronos\documents\visual studio 2015\Projects\Obtener Texto de un Texbox e imprimir\Obtener Texto de un Texbox e imprimir\obj\Debug\Obtener Texto de un Texbox e imprimir.exe
+c:\users\alllstar cronos\documents\visual studio 2015\Projects\Obtener Texto de un Texbox e imprimir\Obtener Texto de un Texbox e imprimir\obj\Debug\Obtener Texto de un Texbox e imprimir.pdb
